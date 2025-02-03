@@ -118,3 +118,65 @@
 
 
 
+#### Searching for function:
+- We can find any function in formula tab in fx we just need to enter name of that function.
+
+### SUM() : 
+- Sum function shortcut click on formula bar then click on maths and formulas basic formulas will display and click on particular formula like sum enter range start cell and end cell.
+
+### MIN():
+- We can use this function to find minimum value from particular range of cell.
+
+### MAX():
+- Use to find maximum value from particular cell range.
+
+### AVERAGE():
+- We can use this function to calculate average of total particular cell range.
+
+### COUNT():
+- Count function only count numeric value it dosent count empty cells.
+- Count function count how many entries are there in particular range of cell.
+
+#### Green triangle :
+- If green triangle appears near box it shows something wrong with the cell like error.
+
+- So we can check error and if error is valid check that otherwise we can remove that error.
+
+1. AUTOSUM : 
+- This function will help to sum range of cell and that will select range of cell by refrance.
+
+### AutoFill Command:
+- Use same refrance just like uses same pattern.We need to pull that box + sign to apply autofill.
+
+### Moving and Copying Data in an Excel Worksheet:
+- we can drag the colum by selecting and clicking on four headed arrow , we drag the table anywhere on sheet.
+
+- If we want to drag the table to another sheet then we need to select table ctrl+x to cut the table and ctrl+v to paste the table in anither sheet.
+- If we want to copy the table we can press ctrl+c and ctrl+v in new sheet.
+
+### Inserting and Deleting Rows and Columns:
+- 
+
+
+
+
+
+### Changing the Width and Height of cells :
+
+- If data is showing in the format of #### that means data is numeric and it dosent have space to fit inside cell so for that we need to expand cell.
+
+- If we want to adjust i.e. autofit the column then we can click on top of the column between two columns then that wiil adjust size according to heighest value.
+- If we want every column uniform then we can select all the column annd click btn two column it will autofit entire columns.
+
+### Hiding and Uhiding rows and column:
+- To hide the column click on top of the column right click and select hide option.
+
+- Right click on top of that column roght click and select unhide.
+
+#### Moving and Copying Excelsheet:
+- 
+ 
+
+
+
+
